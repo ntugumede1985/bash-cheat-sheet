@@ -23,4 +23,11 @@
 * Usage: `mv file [...] to location`
 * What it does: moves file(s) from chosen location to another chosen place
 * mv finesse: 
-    - you can rename a file by having its "destination" be a new filename.  
+    - you can rename a file by having its "destination" be a new filename. 
+
+---
+### **`pwd`
+
+* Usage: `pwd`
+* What it does: prints working directory.
+
